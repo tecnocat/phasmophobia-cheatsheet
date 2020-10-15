@@ -137,7 +137,7 @@ export default class MainGridPage extends Component {
 						draggable={false}
 						type="checkbox"
 						custom="true"
-						label="Muestra siempre las evidencias secundarias"
+						label="Muestra siempre las pruebas secundarias"
 						checked={this.props.showAllSecondaryEvidence}
 						style={{ margin: "15px"}}
 						onChange={(e) => this.props.toggleSetting("showAllSecondaryEvidence")}

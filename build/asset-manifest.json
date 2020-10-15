@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/phasmophobia-cheatsheet/static/css/main.75b36bc9.chunk.css",
-    "main.js": "/phasmophobia-cheatsheet/static/js/main.fb8b5864.chunk.js",
-    "main.js.map": "/phasmophobia-cheatsheet/static/js/main.fb8b5864.chunk.js.map",
+    "main.js": "/phasmophobia-cheatsheet/static/js/main.1e2f84e7.chunk.js",
+    "main.js.map": "/phasmophobia-cheatsheet/static/js/main.1e2f84e7.chunk.js.map",
     "runtime-main.js": "/phasmophobia-cheatsheet/static/js/runtime-main.35471a59.js",
     "runtime-main.js.map": "/phasmophobia-cheatsheet/static/js/runtime-main.35471a59.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/phasmophobia-cheatsheet/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.b08e41b0.chunk.js": "/phasmophobia-cheatsheet/static/js/2.b08e41b0.chunk.js",
     "static/js/2.b08e41b0.chunk.js.map": "/phasmophobia-cheatsheet/static/js/2.b08e41b0.chunk.js.map",
     "index.html": "/phasmophobia-cheatsheet/index.html",
-    "precache-manifest.dd9ea6f771cc23b003868fd9158e8a79.js": "/phasmophobia-cheatsheet/precache-manifest.dd9ea6f771cc23b003868fd9158e8a79.js",
+    "precache-manifest.387af04e27c6d98e6b39d4c27bfeac07.js": "/phasmophobia-cheatsheet/precache-manifest.387af04e27c6d98e6b39d4c27bfeac07.js",
     "service-worker.js": "/phasmophobia-cheatsheet/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/phasmophobia-cheatsheet/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.75b36bc9.chunk.css.map": "/phasmophobia-cheatsheet/static/css/main.75b36bc9.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.b08e41b0.chunk.js",
     "static/css/main.75b36bc9.chunk.css",
-    "static/js/main.fb8b5864.chunk.js"
+    "static/js/main.1e2f84e7.chunk.js"
   ]
 }
