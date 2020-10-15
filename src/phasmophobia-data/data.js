@@ -1,39 +1,39 @@
 var data = {
 	"primaryevidence": [
-		"EMF Level 5",
-		"Fingerprints",
-		"Freezing Temperature",
-		"Ghost Orbs",
-		"Ghost Writing",
+		"EMF Nivel 5",
+		"Huellas dactilares",
+		"Temperaturas bajo cero",
+		"Orbes",
+		"Escritura fantasma",
 		"Spirit Box"
 	],
 	"secondaryevidence": [
-		"objects moved at great speeds",
-		"more active when people are nearby",
-		"smudge stick stops attacks for a long time",
-		"flying, no footprints",
-		"toxic reaction to salt",
-		"travelling through walls",
-		"looking at the ghost drops sanity considerably",
-		"taking a photo makes the ghost temporarily disappear",
-		"summoned by a Ouija Board",
-		"possesses the living",
-		"throws multiple objects at once",
-		"targets and hunts one person at a time",
-		"scared off easily by the Crucifix",
-		"territorial ghost that attacks when threatened",
-		"travels fast when victim is far away",
-		"turning off the locations power source slows down ghost movement",
-		"most powerful in the dark",
-		"increased chance of an attack in the dark",
-		"lower chance of an attack when lights are on",
-		"travels at significantly high speeds when hunting",
-		"hiding slows down the ghost significantly",
-		"shy ghost with no activity/hunting when multiple people are nearby",
-		"attacks often and without reason",
-		"sanity is not lowered when asking successful Ouija Board questions",
-		"reduces sanity more quickly",
-		"smudging the room will stop it from wandering around for a long time"
+		"lanza objetos a gran velocidad",
+		"más activos cuanta más gente haya alrededor",
+		"varillas de incienso cerca hará que no ataque por un largo periodo de tiempo",
+		"habilidad de volar, nunca dejará pisadas rastreables en el suelo",
+		"reacción tóxica al entrar en contacto con la sal",
+		"a veces atraviesa paredes",
+		"mirarle hará que tu cordura disminuya considerablemente",
+		"fotografiarle hará que desaparezca temporalmente",
+		"suele ser invocado mediante un tablero de Ouija",
+		"puede poseer a los vivos",
+		"puede lanzar muchos objetos a la vez",
+		"solo podrá marcar a un jugador a la vez",
+		"temen el crucifijo haciendo que sean menos agresivas si se encuentran cerca de uno",
+		"es un fantasma territorial que atacará cuando se sienta amenazado",
+		"viajará más rápido cuanto mayor sea la distancia entre él y su víctima",
+		"cuando el cuadro eléctrico esté apagado no podrá usar su habilidad",
+		"es muy poderoso en la oscuridad",
+		"tendrá mas posibilidades de atacarte si te encuentras a oscuras",
+		"encender las luces hará que tenga menos probabilidades de atacarte",
+		"se desplaza más rápido si va tras su presa",
+		"esconderte hará que se mueva muy lento",
+		"no generará actividad paranormal si hay varias personas cerca",
+		"conocidos por atacar sin ninguna razón aparente",
+		"hacer preguntas exitosas a través del tablero de Ouija hará que la cordura no disminuya",
+		"gran impacto sobre la cordura de los individuos",
+		"usar las varillas de incienso en su habitación hará que no se paseé por ahí en un gran periodo de tiempo"
 	],
 	"ghosts": [
 		{
@@ -46,7 +46,7 @@ var data = {
 				"Ghost Writing",
 				"Spirit Box",
 				
-				"smudge stick stops attacks for a long time"
+				"varillas de incienso cerca hará que no ataque por un largo periodo de tiempo"
 			]
 		},
 		{
@@ -59,9 +59,9 @@ var data = {
 				"Freezing Temperature",
 				"Spirit Box",
 
-				"flying, no footprints",
-				"toxic reaction to salt",
-				"travelling through walls"
+				"habilidad de volar, nunca dejará pisadas rastreables en el suelo",
+				"reacción tóxica al entrar en contacto con la sal",
+				"a veces atraviesa paredes"
 			]
 		},
 		{
@@ -74,10 +74,10 @@ var data = {
 				"Freezing Temperature",
 				"Ghost Orbs",
 
-				"looking at the ghost drops sanity considerably",
-				"taking a photo makes the ghost temporarily disappear",
-				"summoned by a Ouija Board",
-				"possesses the living"
+				"mirarle hará que tu cordura disminuya considerablemente",
+				"fotografiarle hará que desaparezca temporalmente",
+				"suele ser invocado mediante un tablero de Ouija",
+				"puede poseer a los vivos"
 			]
 		},
 		{
@@ -90,7 +90,7 @@ var data = {
 				"Ghost Orbs",
 				"Spirit Box",
 
-				"throws multiple objects at once"
+				"puede lanzar muchos objetos a la vez"
 			]
 		},
 		{
@@ -103,8 +103,8 @@ var data = {
 				"Fingerprints",
 				"Freezing Temperature",
 
-				"targets and hunts one person at a time",
-				"scared off easily by the Crucifix"
+				"solo podrá marcar a un jugador a la vez",
+				"temen el crucifijo haciendo que sean menos agresivas si se encuentran cerca de uno"
 			]
 		},
 		{
@@ -117,9 +117,9 @@ var data = {
 				"Ghost Orbs",
 				"Spirit Box",
 				
-				"territorial ghost that attacks when threatened",
-				"travels fast when victim is far away",
-				"turning off the locations power source slows down ghost movement"
+				"es un fantasma territorial que atacará cuando se sienta amenazado",
+				"viajará más rápido cuanto mayor sea la distancia entre él y su víctima",
+				"cuando el cuadro eléctrico esté apagado no podrá usar su habilidad"
 			]
 		},
 		{
@@ -132,9 +132,9 @@ var data = {
 				"Ghost Orbs",
 				"Spirit Box",
 
-				"most powerful in the dark",
-				"increased chance of an attack in the dark",
-				"lower chance of an attack when lights are on"
+				"es muy poderoso en la oscuridad",
+				"tendrá mas posibilidades de atacarte si te encuentras a oscuras",
+				"encender las luces hará que tenga menos probabilidades de atacarte"
 			]
 		},
 		{
@@ -147,8 +147,8 @@ var data = {
 				"Fingerprints",
 				"Ghost Writing",
 				
-				"travels at significantly high speeds when hunting",
-				"hiding slows down the ghost significantly"
+				"se desplaza más rápido si va tras su presa",
+				"esconderte hará que se mueva muy lento"
 			]
 		},
 		{
@@ -161,7 +161,7 @@ var data = {
 				"Ghost Orbs",
 				"Ghost Writing",
 
-				"shy ghost with no activity/hunting when multiple people are nearby"
+				"no generará actividad paranormal si hay varias personas cerca"
 			]
 		},
 		{
@@ -174,8 +174,8 @@ var data = {
 				"Ghost Writing",
 				"Spirit Box",
 
-				"attacks often and without reason",
-				"sanity is not lowered when asking successful Ouija Board questions"
+				"conocidos por atacar sin ninguna razón aparente",
+				"hacer preguntas exitosas a través del tablero de Ouija hará que la cordura no disminuya"
 			]
 		},
 		{
@@ -188,8 +188,8 @@ var data = {
 				"Ghost Orbs",
 				"Ghost Writing",
 
-				"reduces sanity more quickly",
-				"smudging the room will stop it from wandering around for a long time"
+				"gran impacto sobre la cordura de los individuos",
+				"usar las varillas de incienso en su habitación hará que no se paseé por ahí en un gran periodo de tiempo"
 			]
 		},
 		{
@@ -202,8 +202,8 @@ var data = {
 				"Ghost Writing",
 				"Spirit Box",
 
-				"objects moved at great speeds",
-				"more active when people are nearby"
+				"lanza objetos a gran velocidad",
+				"más activos cuanta más gente haya alrededor"
 			]
 		}
 	],
