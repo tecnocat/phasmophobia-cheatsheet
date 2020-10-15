@@ -37,26 +37,26 @@ var data = {
 	],
 	"ghosts": [
 		{
-			"name": "Spirit",
+			"name": "Espíritu",
 			"description":"",
 			"uniquestrength": "",
 			"weaknesses": "",
 			"evidence": [
-				"Fingerprints",
-				"Ghost Writing",
+				"Huellas dactilares",
+				"Escritura fantasma",
 				"Spirit Box",
-				
+
 				"varillas de incienso cerca hará que no ataque por un largo periodo de tiempo"
 			]
 		},
 		{
-			"name": "Wraith",
+			"name": "Espectro",
 			"description":"",
 			"uniquestrength": "",
 			"weaknesses": "",
 			"evidence": [
-				"Fingerprints",
-				"Freezing Temperature",
+				"Huellas dactilares",
+				"Temperaturas bajo cero",
 				"Spirit Box",
 
 				"habilidad de volar, nunca dejará pisadas rastreables en el suelo",
@@ -65,14 +65,14 @@ var data = {
 			]
 		},
 		{
-			"name": "Phantom",
+			"name": "Ente",
 			"description":"",
 			"uniquestrength": "",
 			"weaknesses": "",
 			"evidence": [
-				"EMF Level 5",
-				"Freezing Temperature",
-				"Ghost Orbs",
+				"EMF Nivel 5",
+				"Temperaturas bajo cero",
+				"Orbes",
 
 				"mirarle hará que tu cordura disminuya considerablemente",
 				"fotografiarle hará que desaparezca temporalmente",
@@ -86,8 +86,8 @@ var data = {
 			"uniquestrength": "",
 			"weaknesses": "",
 			"evidence": [
-				"Fingerprints",
-				"Ghost Orbs",
+				"Huellas dactilares",
+				"Orbes",
 				"Spirit Box",
 
 				"puede lanzar muchos objetos a la vez"
@@ -99,9 +99,9 @@ var data = {
 			"uniquestrength": "",
 			"weaknesses": "",
 			"evidence": [
-				"EMF Level 5",
-				"Fingerprints",
-				"Freezing Temperature",
+				"EMF Nivel 5",
+				"Huellas dactilares",
+				"Temperaturas bajo cero",
 
 				"solo podrá marcar a un jugador a la vez",
 				"temen el crucifijo haciendo que sean menos agresivas si se encuentran cerca de uno"
@@ -113,23 +113,23 @@ var data = {
 			"uniquestrength": "",
 			"weaknesses": "",
 			"evidence": [
-				"EMF Level 5",
-				"Ghost Orbs",
+				"EMF Nivel 5",
+				"Orbes",
 				"Spirit Box",
-				
+
 				"es un fantasma territorial que atacará cuando se sienta amenazado",
 				"viajará más rápido cuanto mayor sea la distancia entre él y su víctima",
 				"cuando el cuadro eléctrico esté apagado no podrá usar su habilidad"
 			]
 		},
 		{
-			"name": "Mare",
+			"name": "Pesadilla",
 			"description":"",
 			"uniquestrength": "",
 			"weaknesses": "",
 			"evidence": [
-				"Freezing Temperature",
-				"Ghost Orbs",
+				"Temperaturas bajo cero",
+				"Orbes",
 				"Spirit Box",
 
 				"es muy poderoso en la oscuridad",
@@ -143,35 +143,35 @@ var data = {
 			"uniquestrength": "",
 			"weaknesses": "",
 			"evidence": [
-				"EMF Level 5",
-				"Fingerprints",
-				"Ghost Writing",
-				
+				"EMF Nivel 5",
+				"Huellas dactilares",
+				"Escritura fantasma",
+
 				"se desplaza más rápido si va tras su presa",
 				"esconderte hará que se mueva muy lento"
 			]
 		},
 		{
-			"name": "Shade",
+			"name": "Sombra",
 			"description":"",
 			"uniquestrength": "",
 			"weaknesses": "",
 			"evidence": [
-				"EMF Level 5",
-				"Ghost Orbs",
-				"Ghost Writing",
+				"EMF Nivel 5",
+				"Orbes",
+				"Escritura fantasma",
 
 				"no generará actividad paranormal si hay varias personas cerca"
 			]
 		},
 		{
-			"name": "Demon",
+			"name": "Demonio",
 			"description":"",
 			"uniquestrength": "",
 			"weaknesses": "",
 			"evidence": [
-				"Freezing Temperature",
-				"Ghost Writing",
+				"Temperaturas bajo cero",
+				"Escritura fantasma",
 				"Spirit Box",
 
 				"conocidos por atacar sin ninguna razón aparente",
@@ -184,9 +184,9 @@ var data = {
 			"uniquestrength": "",
 			"weaknesses": "",
 			"evidence": [
-				"Freezing Temperature",
-				"Ghost Orbs",
-				"Ghost Writing",
+				"Temperaturas bajo cero",
+				"Orbes",
+				"Escritura fantasma",
 
 				"gran impacto sobre la cordura de los individuos",
 				"usar las varillas de incienso en su habitación hará que no se paseé por ahí en un gran periodo de tiempo"
@@ -198,8 +198,8 @@ var data = {
 			"uniquestrength": "",
 			"weaknesses": "",
 			"evidence": [
-				"EMF Level 5",
-				"Ghost Writing",
+				"EMF Nivel 5",
+				"Escritura fantasma",
 				"Spirit Box",
 
 				"lanza objetos a gran velocidad",
@@ -209,56 +209,57 @@ var data = {
 	],
 	"voicelines": {
 		"general": [
-			"What do you want?",
-			"Why are you here?",
-			"Do you want to hurt us?",
-			"Are you angry?",
-			"Do you want us here?",
-			"Shall we leave?",
-			"Should we leave?",
-			"Do you want us to leave?",
-			"What should we do?",
-			"Can we help?",
-			"Are you friendly?",
-			"What are you?",
-			"Are you close?",
-			"Can you show yourself?",
-			"Give us a sign.",
-			"Let us know you are here.",
-			"Show yourself.",
-			"Can you talk?",
-			"Speak to us.",
-			"Are you here?",
-			"Are you with us?",
-			"Anybody with us?",
-			"Is anyone here?",
-			"Anybody in the room?",
-			"Anybody here?",
-			"Is there a spirit here?",
-			"Is there a Ghost here?",
-			"Are you a girl?",
-			"Are you a boy?",
-			"Are you male?",
-			"Are you female?",
-			"Who are you?",
-			"What are you?",
-			"Who is this?",
-			"Who are we talking to?",
-			"Who am I talking to?",
-			"Hello?",
-			"What is your name?",
-			"Can you give me your name?",
-			"How old are you?",
-			"How young are you?",
-			"What is your age?",
-			"When were you born?",
-			"Are you a child?",
-			"Are you old?",
-			"Are you young?",
-			"What is your location?",
-			"What is your gender?",
-			"Are you male or female?",
-			"Are you a woman?"
+			"¿Qué quieres?",
+			"¿Por qué estás aquí?",
+			"¿Quieres hacernos daño?",
+			"¿Estás enfadado?",
+			"¿Nos quieres aquí?",
+			"¿Nos vamos?",
+			"¿Deberíamos irnos?",
+			"¿Quieres que nos vayamos?",
+			"¿Qué debemos hacer?",
+			"¿Podemos ayudar?",
+			"¿Eres amistoso?",
+			"¿Qué eres?",
+			"¿Estás cerca?",
+			"¿Puedes mostrarte?",
+			"Danos una señal.",
+			"Háznos saber que estás aquí.",
+			"Muéstrate.",
+			"¿Puedes hablar?",
+			"Háblanos.",
+			"¿Estás aquí?",
+			"¿Estás con nosotros?",
+			"¿Alguien con nosotros?",
+			"¿Hay alguién aquí?",
+			"¿Hay alguién en la habitación?",
+			"¿Alguién aquí?",
+			"¿Hay un Espíritu aquí?",
+			"¿Hay un Fantasma aquí?",
+			"¿Quien eres?",
+			"¿Que eres tú?",
+			"¿Quien es este?",
+			"¿A quién le estamos hablando?",
+			"¿Con quién estoy hablando?",
+			"¿Hola?",
+			"¿Cuál es tu nombre?",
+			"¿Puedes darme tu nombre?",
+			"¿Cuantos años tienes?",
+			"¿Cuan joven eres?",
+			"¿Cuál es tu edad?",
+			"¿Cuando naciste?",
+			"¿Eres un niño?",
+			"¿Eres viejo?",
+			"¿Eres joven?",
+			"¿Cuál es tu ubicación?",
+			"¿Cuál es tu género?",
+			"¿Eres hombre o mujer?",
+			"¿Eres una chica?",
+			"¿Eres un chico?",
+			"¿Eres una mujer?",
+			"¿Eres un hombre?",
+			"¿Eres mujer?",
+			"¿Eres hombre?"
 		],
 		"ouija": [
 			"Who did you kill?",
