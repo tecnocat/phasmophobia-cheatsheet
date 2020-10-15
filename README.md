@@ -2,7 +2,7 @@
 
 This React web application for the game Phasmophobia provides you with a fast overview of the ghost types and their evidence. You can select evidence and the website will highlight the ghost types that are related to that evidence.
 
-
+## forked from un0btanium/phasmophobia-cheatsheet
 
 # Contribute
 

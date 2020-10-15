@@ -56,7 +56,7 @@ export default class VoiceLinesPage extends Component {
 			}
 			
 			// HEADER ROW
-			let columnHeaders = ["General Questions", "Ouija Board Questions", "Spirit Box Questions", "Anger and Attack Trigger Words"].map((title, index) => {
+			let columnHeaders = ["Preguntas generales", "Preguntas de Ouija", "Preguntas Spirit Box", "Palabras de enfado y ataque"].map((title, index) => {
 				return <Col key={"header-" + title}><h3>{title}</h3></Col>
 			});
 
